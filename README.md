@@ -92,3 +92,5 @@ Edit `mcp-bridge.js` — add entry to `TOOLS` object with handler function. Each
 ```
 
 Built alongside old per-service AGENTS.md artifacts (preserved as rollback).
+## Mirror
+Primary: Codeberg · Mirror: GitHub
