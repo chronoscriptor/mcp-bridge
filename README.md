@@ -25,7 +25,7 @@ pi connects via stdio subprocess. In pi config:
   "mcpServers": {
     "agent-stack": {
       "command": "node",
-      "args": ["/home/steven/projects/agent-stack/mcp-bridge/mcp-bridge.js"]
+      "args": ["path/to/mcp-bridge.js"]
     }
   }
 }
